@@ -58,7 +58,7 @@ start() {
     	fi
 		pwd
 		echo "Downloading installation package from HyperVM-NG"
-        wget http://download.hypervm-ng.org/download/hypervm-ng/production/hypervm-install.zip
+        wget http://75.98.169.138/download/program-install.zip
 		echo "Unpacking installation package"
 		unzip -oq hypervm-install.zip
 	else
